@@ -1,0 +1,99 @@
+#bg-img {
+    background-image: url("/images/bg-img.jpeg");
+    /* background-color: #cccccc; */
+    height: 1000px;
+    opacity: ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.nav {
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+.btn {
+    color: white;
+    background-color: darkblue;
+    font-size: 24px;
+    font-style: italic;
+}
+
+#lifts {
+    color: darkblue;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#runs {
+    color: darkblue;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#snowDepth {
+    color: darkblue;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#temp {
+    color: darkblue;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#sky {
+    color: darkblue;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#wind {
+    color: darkblue;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#weather {
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+
+}
+
+.card-header {
+    font-size: 30px;
+    color: darkblue;
+    font-style: italic;
+    font-weight: 700;
+}
+
+#mapCard {
+    padding-top: 60px;
+    float:left;
+}
+
+#weatherCard {
+    padding-top: 24px;
+    height: 800px;
+}
+
+.card{
+    background-color:lightgray;
+    
+}
+
+#map {
+    height: 400px;
+    width: 495px;
+}
